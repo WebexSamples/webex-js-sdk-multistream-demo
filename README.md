@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Webex Samples Template
 
 This is the Webex Samples Template Repository, which must be used for all new code contributions. The Webex Samples Template is a standardized framework that provides contributors to the Webex Samples organization with a consistent and organized approach to creating code contributions. By using the template, contributors can create new repositories that are independent of the original repository's commit history, making it easier to track changes and maintain a clean codebase. The template also includes a sample README and linting tools for standardized code samples. Utilizing the template streamlines the contribution process and ensures consistency across the Webex Samples organization, benefiting contributors and maintaining a well-organized codebase.
@@ -138,3 +139,33 @@ unset HUSKY # Re-enables hooks
 We truly appreciate your contribution to the Webex Samples!
 
 Made with <3 by the Webex Developer Relations Team at Cisco
+=======
+# Getting Started with Webex JS SDK Multistream Demo App
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+>>>>>>> a330bb7 (feat(multistream-demo): multistream-demo-for-webinar)
